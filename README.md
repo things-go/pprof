@@ -2,7 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/things-go/pprof?status.svg)](https://godoc.org/github.com/things-go/pprof)
 [![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/things-go/pprof?tab=doc)
-[![Build Status](https://travis-ci.org/things-go/pprof.svg)](https://travis-ci.org/things-go/pprof)
+[![Build Status](https://travis-ci.com/things-go/pprof.svg)](https://travis-ci.com/things-go/pprof)
 [![codecov](https://codecov.io/gh/things-go/pprof/branch/master/graph/badge.svg)](https://codecov.io/gh/things-go/pprof)
 ![Action Status](https://github.com/things-go/pprof/workflows/Go/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/things-go/pprof)](https://goreportcard.com/report/github.com/things-go/pprof)
